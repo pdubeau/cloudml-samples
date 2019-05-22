@@ -13,7 +13,7 @@ from sklearn.preprocessing import LabelBinarizer
 
 
 # TODO: REPLACE 'YOUR_BUCKET_NAME' with your GCS Bucket name. 
-BUCKET_NAME = 'YOUR_BUCKET_NAME'
+BUCKET_NAME = 'deck-241311-mlengine'
 # [END setup]
 
 
